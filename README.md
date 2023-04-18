@@ -17,3 +17,5 @@ Tisdag: ---
 Vecka 13
 Måndag: Fortsatt koda med layout och navbar, använder kod som redan finns. 
 Tisdag: Fortsatt koda och modifierat den existerande kodens färger, typsnitt, text, storlek etc för att passa för oss.
+
+Veckor till vecka 16 bara kodat med webbsidan. Gjort layout, ny navbar, etc.
